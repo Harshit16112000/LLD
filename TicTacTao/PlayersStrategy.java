@@ -1,0 +1,4 @@
+interface PlayersStrategy {
+    Symbols getSymbol();
+}
+
